@@ -1,6 +1,5 @@
 import { useState, useRef } from 'react'
 import Head from 'next/head'
-import '../styles/globals.css'
 
 // ─── 공통 스타일 ───────────────────────────────────────────────
 const S = {
